@@ -1,2 +1,7 @@
 # fwgitshpop
-A demo geto for teaching GitHub
+A demo reto for teaching GitHub
+title
+programs
+function
+howtouse
+howtocontribute
